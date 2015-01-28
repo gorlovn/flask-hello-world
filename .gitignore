@@ -1,0 +1,7 @@
+env/*
+*.pyc
+*.out
+*.csv
+*.xls
+*.zip
+*.*~
